@@ -1,0 +1,9 @@
+---
+title: "Vanakkam!"
+tags: [meta]
+math: true
+---
+
+This is my first post. I hope to document some engaging Math here (which might not happen since I made this website on a whim). I also wish to use this as a way to streamline my ideas and thoughts regarding various things.
+
+So tuff.
