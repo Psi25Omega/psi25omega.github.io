@@ -1,4 +1,4 @@
-# arjun-arunachalam.github.io
+# Welcome to my website!
 
 A minimal Jekyll blog/site: dark theme, small-caps title, colored
 blockquotes, LaTeX support via MathJax — styled after a screenshot you
