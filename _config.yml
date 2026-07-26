@@ -3,15 +3,18 @@ description: "A freshman at the Indian Institute of Technology, Madras."
 author: "Arjun Arunachalam"
 
 # --- Update this before publishing ---
-url: "https://YOUR-USERNAME.github.io"
+url: "https://psi25omega.github.io"
 baseurl: ""
-github_username: YOUR-USERNAME
+github_username: psi25omega
 # ---------------------------------------
 
 markdown: kramdown
 kramdown:
   math_engine: mathjax
   input: GFM
+
+sass:
+  sass_dir: assets/css
 
 permalink: /:year/:month/:day/:title/
 
